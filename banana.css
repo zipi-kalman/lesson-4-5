@@ -1,0 +1,15 @@
+.styleDiv{border: 2px solid rgb(48, 202, 48);
+display: inline-block;
+margin: 70px;
+height: 30vh;
+width: 20vw;
+background-image: url();
+}
+.vegetables{margin-top: 10vh;}
+.banana{margin: auto;
+    position: absolute;
+    z-index: 3;
+   top:5vh !important;
+  font-size:8vh ;
+
+}
